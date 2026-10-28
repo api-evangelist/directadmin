@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DirectAdmin is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://directadmin.com/
+DirectAdmin provides a powerful web-based control panel for managing web hosting servers. It enables administrators to handle domains, email accounts, databases, and server resources through an intuitive graphical interface. The platform supports automation, reseller management, and integrates with popular web services, offering a comprehensive solution for hosting providers and system administrators seeking efficient server control.
+
+**Areas:** Hosting · ControlPanel · WebHosting · ServerManagement · Automation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://directadmin.com/)
+- [Documentation](https://docs.directadmin.com/)
+- [Getting started](https://docs.directadmin.com/getting-started/installation/)
+- [Pricing](https://directadmin.com/pricing.php)
+- [Changelog](https://docs.directadmin.com/changelog/version-1.713.html)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/directadmin/](https://apis.io/providers/directadmin/).
